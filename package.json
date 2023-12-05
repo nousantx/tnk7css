@@ -10,5 +10,13 @@
     "css3"
   ],
   "author": "nousantx",
-  "license": "ISC"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/nousantx/tnk7css.git"
+  },
+  "bugs": {
+    "url": "https://github.com/nousantx/tnk7css/issues"
+  },
+  "homepage": "https://github.com/nousantx/tnk7css#readme"
 }
