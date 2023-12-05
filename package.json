@@ -1,0 +1,14 @@
+{
+  "name": "tenk7css",
+  "version": "0.0.1",
+  "description": "CSS style reseter and browser normalize.",
+  "main": "dist/index.min.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "css3"
+  ],
+  "author": "nousantx",
+  "license": "ISC"
+}
