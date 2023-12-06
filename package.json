@@ -1,6 +1,6 @@
 {
   "name": "tenk7css",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "CSS style reseter and browser normalize.",
   "main": "dist/index.min.css",
   "scripts": {
