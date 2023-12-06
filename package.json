@@ -2,7 +2,7 @@
   "name": "tenk7css",
   "version": "0.0.4",
   "description": "CSS style reseter and browser normalize.",
-  "main": "dist/index.min.css",
+  "main": "./index.min.css",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
