@@ -1,5 +1,5 @@
-/**
-  Tester CSS | NOuSantx | 
+/*!
+  Tester CSS | NOuSantx | Tenk7css v0.0.2
 */
 
 *,
@@ -102,8 +102,9 @@ a:hover {
   text-decoration: underline;
 }
 
+none,
 :where([hidden]) {
-  display: none;
+  display: none !important;
 }
 
 a,
